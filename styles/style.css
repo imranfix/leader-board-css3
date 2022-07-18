@@ -148,7 +148,7 @@ courses styles
 .banner-grid{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-column-gap: 90px;
+    grid-column-gap: 95px;
     align-items: center;
  }
 
